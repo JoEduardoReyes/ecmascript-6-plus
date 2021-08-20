@@ -1,0 +1,19 @@
+{
+  "name": "ecmascript6",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JoEduardoReyes/ecmascript-6-plus.git"
+  },
+  "author": "JoEduardoReyes",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JoEduardoReyes/ecmascript-6-plus/issues"
+  },
+  "homepage": "https://github.com/JoEduardoReyes/ecmascript-6-plus#readme"
+}
